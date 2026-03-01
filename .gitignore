@@ -1,0 +1,18 @@
+# Ignore Environment Keys (SENSITIVE - DO NOT PUSH)
+.env
+
+# Ignore Node.js dependencies
+node_modules/
+
+# Ignore Python virtual environments and cache
+venv/
+.venv/
+__pycache__/
+*.pyc
+
+# Ignore large ML models (optional, if model.pkl is >50MB)
+# model.pkl
+
+# Ignore System files
+.DS_Store
+Thumbs.db
