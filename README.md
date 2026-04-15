@@ -1,6 +1,6 @@
 # AquaSmart Pro: ML-Based Precision Irrigation
 
-An intelligent irrigation advisory system that combines **Lilve Location**, **Live Weather Data**, **Soil Characteristics**, and **Crop Growth Stages** to provide real-time water management for farmers.
+An intelligent irrigation advisory system that combines  **Live Weather Data**, **Soil Characteristics**, and **Crop Growth Stages** to provide real-time water management for farmers.
 
 ## 🚀 Tech Stack
 - **Frontend:** React.js (Tailwind CSS, Recharts)
